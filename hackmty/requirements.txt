@@ -34,7 +34,7 @@ python-dateutil==2.7.3
 pytube==9.2.2
 pytz==2018.5
 requests==2.19.1
-rsa==3.4.2
+rsa==4.7
 search-google==1.2.1
 service-identity==17.0.0
 six==1.11.0
