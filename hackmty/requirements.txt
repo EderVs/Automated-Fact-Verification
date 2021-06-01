@@ -42,6 +42,6 @@ tqdm==4.25.0
 Twisted==18.7.0
 txaio==18.7.1
 uritemplate==3.0.0
-urllib3==1.23
+urllib3==1.26.5
 watson-developer-cloud==1.7.0
 zope.interface==4.5.0
