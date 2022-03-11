@@ -24,7 +24,7 @@ kwconfig==1.1.7
 lxml==4.2.4
 moviepy==0.2.3.5
 numpy==1.15.1
-Pillow==5.2.0
+Pillow==9.0.1
 pyasn1==0.4.4
 pyasn1-modules==0.2.2
 pycparser==2.18
