@@ -39,7 +39,7 @@ search-google==1.2.1
 service-identity==17.0.0
 six==1.11.0
 tqdm==4.25.0
-Twisted==18.7.0
+Twisted==22.10.0
 txaio==18.7.1
 uritemplate==3.0.0
 urllib3==1.23
